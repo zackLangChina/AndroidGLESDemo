@@ -1,0 +1,18 @@
+# ninja log v5
+1	705	0	CMakeFiles/native-lib.dir/native-lib.cpp.o	e483167cc97ae655
+3	80	0	CMakeFiles/native-lib.dir/egl/EglHelper.cpp.o	e2f05292d8144be8
+2	565	0	CMakeFiles/native-lib.dir/native-lib.cpp.o	e483167cc97ae655
+565	691	0	/Users/mac/Desktop/git_download/NativeEglDemo/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	849464353177f54a
+1	75	0	CMakeFiles/native-lib.dir/egl/EglHelper.cpp.o	e2f05292d8144be8
+75	145	0	/Users/mac/Desktop/git_download/NativeEglDemo/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	849464353177f54a
+2	165	0	CMakeFiles/native-lib.dir/egl/EglHelper.cpp.o	e2f05292d8144be8
+2	188	0	CMakeFiles/native-lib.dir/egl/EglThread.cpp.o	7ed1a2ccbdc49360
+1	691	0	CMakeFiles/native-lib.dir/native-lib.cpp.o	e483167cc97ae655
+691	834	0	/Users/mac/Desktop/git_download/NativeEglDemo/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	7af1dc81822c3792
+2	886	0	CMakeFiles/native-lib.dir/native-lib.cpp.o	e483167cc97ae655
+2	107	0	CMakeFiles/native-lib.dir/egl/EglThread.cpp.o	7ed1a2ccbdc49360
+107	255	0	/Users/mac/Desktop/git_download/NativeEglDemo/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	7af1dc81822c3792
+2	97	0	CMakeFiles/native-lib.dir/egl/EglHelper.cpp.o	e2f05292d8144be8
+2	117	0	CMakeFiles/native-lib.dir/egl/EglThread.cpp.o	7ed1a2ccbdc49360
+1	583	0	CMakeFiles/native-lib.dir/native-lib.cpp.o	e483167cc97ae655
+583	640	0	/Users/mac/Desktop/git_download/NativeEglDemo/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	7af1dc81822c3792
